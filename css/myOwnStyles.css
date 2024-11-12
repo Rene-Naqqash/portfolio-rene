@@ -1,0 +1,28 @@
+#spanMail {
+    font-size:1.7rem;
+}
+#hidden-link-text{
+    display: none;
+}
+@media (max-width: 590px) {
+
+    #spanMail {
+        font-size: 1.15rem;
+    }
+
+}
+@media (max-width: 622px) {
+
+    #mon {
+        display: none;
+    }
+
+}
+
+@media (max-width: 375px) {
+
+    #spanMail {
+        font-size: 1rem;
+    }
+
+}
